@@ -1,0 +1,16 @@
+title:        ConsoleMasks.ZenodotusCoder.com
+name:         ConsoleMasks.ZenodotusCoder.com
+description:  ConsoleMasks.ZenodotusCoder.com
+author:       Zenodotus Coder
+author_email: zenodotuscoder@gmail.com
+email:        zenodotuscoder@gmail.com
+url:          "https://consolemasks.zenodotuscoder.com/"
+includes_dir: .
+layouts_dir:  consolemasks.zenodotuscoder.com/layouts
+exclude:      [
+               CNAME,
+               LICENSE,
+               README.md,
+               consolemasks.zenodotuscoder.com/layouts/*,
+               consolemasks.zenodotuscoder.com/README.md
+              ]
